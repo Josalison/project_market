@@ -14,7 +14,6 @@ Este projeto foi desenvolvido para automatizar a extração, tratamento e visual
 O gráfico final foi estilizado utilizando a paleta `mako` do Seaborn, com rótulos de dados dinâmicos formatados em moeda aplicados diretamente via Matplotlib:
 
 ![Gráfico de Preço Médio](./grafico_preco_medio.png)
-
 ---
 
 ## 🛠️ O que foi feito? (Etapas do Projeto)
